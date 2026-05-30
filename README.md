@@ -4,7 +4,7 @@
 
 🎓 Computer Engineering Student
 
-📍 Daman, India
+📍 India
 
 ---
 
@@ -34,29 +34,6 @@ Currently seeking Software Developer, Full Stack Developer, Frontend Developer, 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🚀 AI-Powered Creative Studio
-
-AI-powered creative platform inspired by Canva and Figma.
-
-**Tech Stack:** React.js, Tailwind CSS, JavaScript, Node.js, Express.js, MongoDB
-
-**Live Demo:** https://sga.demo.mohphrettechnologies.com/
-
----
-
-### 📄 PDF Tools Web Application
-
-Full-stack PDF utility platform with PDF conversion, merge, split, and compression features.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
-
-**Live Demo:** https://pdftools.gt.tc/?i=1
-
----
 
 ## Connect With Me
 
