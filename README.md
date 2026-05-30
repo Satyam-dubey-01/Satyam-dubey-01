@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Satyam Dubey 👋
 
-<!--
-**Satyam-dubey-01/Satyam-dubey-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Daman, India
+
+---
+
+## About Me
+
+Computer Engineering student with hands-on experience in Full Stack Web Development.
+
+Skilled in React.js, JavaScript, PHP, MySQL, Node.js, Express.js, MongoDB, HTML5, CSS3, Bootstrap, and Tailwind CSS.
+
+Completed a Web Development Internship at Mohphret Technologies and built projects including an AI-Powered Creative Studio and a PDF Tools Web Application.
+
+Currently seeking Software Developer, Full Stack Developer, Frontend Developer, and Web Developer opportunities.
+
+---
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 AI-Powered Creative Studio
+
+AI-powered creative platform inspired by Canva and Figma.
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript, Node.js, Express.js, MongoDB
+
+**Live Demo:** https://sga.demo.mohphrettechnologies.com/
+
+---
+
+### 📄 PDF Tools Web Application
+
+Full-stack PDF utility platform with PDF conversion, merge, split, and compression features.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+
+**Live Demo:** https://pdftools.gt.tc/?i=1
+
+---
+
+## Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/satyam-dubey-290a3a352
+
+📧 Email
+[dubeysatyam5454@gmail.com](mailto:dubeysatyam5454@gmail.com)
+
+🐙 GitHub
+https://github.com/Satyam-dubey-01
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Satyam-dubey-01\&show_icons=true\&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-dubey-01\&layout=compact)
