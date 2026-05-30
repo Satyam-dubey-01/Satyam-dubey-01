@@ -47,9 +47,3 @@ https://www.linkedin.com/in/satyam-dubey-290a3a352
 https://github.com/Satyam-dubey-01
 
 ---
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Satyam-dubey-01\&show_icons=true\&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-dubey-01\&layout=compact)
